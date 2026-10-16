@@ -44,8 +44,6 @@ python train.py
 python generate.py
 ```
 
-## Course
-
 - Math Foundations (gradient descent, activations, loss functions)
 - Neural Networks from scratch (neuron, backprop, MLP)
 - PyTorch fundamentals
